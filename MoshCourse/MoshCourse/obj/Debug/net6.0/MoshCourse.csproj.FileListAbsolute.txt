@@ -1,0 +1,15 @@
+C:\Users\TTopuria\source\repos\MoshCourse\MoshCourse\bin\Debug\net6.0\MoshCourse.exe
+C:\Users\TTopuria\source\repos\MoshCourse\MoshCourse\bin\Debug\net6.0\MoshCourse.deps.json
+C:\Users\TTopuria\source\repos\MoshCourse\MoshCourse\bin\Debug\net6.0\MoshCourse.runtimeconfig.json
+C:\Users\TTopuria\source\repos\MoshCourse\MoshCourse\bin\Debug\net6.0\MoshCourse.dll
+C:\Users\TTopuria\source\repos\MoshCourse\MoshCourse\bin\Debug\net6.0\MoshCourse.pdb
+C:\Users\TTopuria\source\repos\MoshCourse\MoshCourse\obj\Debug\net6.0\MoshCourse.csproj.AssemblyReference.cache
+C:\Users\TTopuria\source\repos\MoshCourse\MoshCourse\obj\Debug\net6.0\MoshCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TTopuria\source\repos\MoshCourse\MoshCourse\obj\Debug\net6.0\MoshCourse.AssemblyInfoInputs.cache
+C:\Users\TTopuria\source\repos\MoshCourse\MoshCourse\obj\Debug\net6.0\MoshCourse.AssemblyInfo.cs
+C:\Users\TTopuria\source\repos\MoshCourse\MoshCourse\obj\Debug\net6.0\MoshCourse.csproj.CoreCompileInputs.cache
+C:\Users\TTopuria\source\repos\MoshCourse\MoshCourse\obj\Debug\net6.0\MoshCourse.dll
+C:\Users\TTopuria\source\repos\MoshCourse\MoshCourse\obj\Debug\net6.0\refint\MoshCourse.dll
+C:\Users\TTopuria\source\repos\MoshCourse\MoshCourse\obj\Debug\net6.0\MoshCourse.pdb
+C:\Users\TTopuria\source\repos\MoshCourse\MoshCourse\obj\Debug\net6.0\MoshCourse.genruntimeconfig.cache
+C:\Users\TTopuria\source\repos\MoshCourse\MoshCourse\obj\Debug\net6.0\ref\MoshCourse.dll
